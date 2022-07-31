@@ -1,0 +1,628 @@
+"","Name.in.English","Degree.of.endangerment","Latitude","Longitude"
+"1","Central Alaskan Yupik (Nuniak Island)","Vulnerable",59.8889,-166.289
+"2","Central Alaskan Yupik (2)","Vulnerable",61.4387,-160.4882
+"3","Rarotongan","Vulnerable",-21.2343,-159.7837
+"4","Norfolk-Pitcairn (Pitcairn)","Vulnerable",-24.3721,-128.3203
+"5","Dogrib","Vulnerable",62.8292,-115.9904
+"6","Stoney","Vulnerable",51.161,-114.8533
+"7","Plains Cree","Vulnerable",56.3544,-113.8345
+"8","Hualapai","Vulnerable",35.5279,-113.4297
+"9","Upland Yuman","Vulnerable",36.2377,-112.7094
+"10","Seri","Vulnerable",29.2333,-112.2
+"11","Hopi","Vulnerable",35.8721,-110.6205
+"12","Yaqui (Mexico)","Vulnerable",27.6436,-110.296
+"13","Dene","Vulnerable",56.4807,-109.4127
+"14","River Guarijío","Vulnerable",27.5196,-109.2525
+"15","Zuni","Vulnerable",35.082,-108.76
+"16","Mountain Guarijío","Vulnerable",27.8758,-108.553
+"17","Western Tarahumara","Vulnerable",27.3361,-108.5007
+"18","Navajo","Vulnerable",35.8044,-108.475
+"19","Northwestern Tarahumara","Vulnerable",27.9169,-107.0552
+"20","Southeastern Tarahumara","Vulnerable",26.0891,-106.9645
+"21","Jemez","Vulnerable",35.6151,-106.7242
+"22","Southwestern Tepehuan","Vulnerable",22.8349,-105.7276
+"23","Picuris","Vulnerable",36.1914,-105.7151
+"24","Huichol","Vulnerable",22.65,-103.5833
+"25","Woods Cree","Vulnerable",55.1711,-102.9061
+"26","Sioux","Vulnerable",43.0588,-102.5244
+"27","Phurhepecha","Vulnerable",19.3111,-102.041
+"28","Chichimec","Vulnerable",21.2941,-100.5233
+"29","Northwestern Otomí","Vulnerable",21.0996,-100.1584
+"30","Lower Northwestern Otomí","Vulnerable",20.1865,-100.1469
+"31","Central Pame","Vulnerable",21.9208,-99.3741
+"32","Western Tlapanec","Vulnerable",17.4101,-99.2423
+"33","Southwestern Tlapanec","Vulnerable",16.9629,-99.0953
+"34","Central Náhuatl","Vulnerable",19.191,-99.0236
+"35","Huasteca Náhuatl","Vulnerable",21.3835,-98.9902
+"36","Northwestern Tlapanec","Vulnerable",17.5595,-98.9332
+"37","Northern Tlapanec","Vulnerable",17.4203,-98.7814
+"38","Central Tlapanec","Vulnerable",17.2624,-98.7482
+"39","Malinaltepec Tlapanec","Vulnerable",17.2451,-98.6717
+"40","Saulteau","Vulnerable",50.5573,-98.6562
+"41","Eastern Tlapanec","Vulnerable",17.8135,-98.604
+"42","Pisaflores Tepehua","Vulnerable",20.6883,-98.0125
+"43","Swampy Cree","Vulnerable",53.9849,-97.7626
+"44","Filomeno Mata Totonac","Vulnerable",20.198,-97.7022
+"45","Northern Popoloc","Vulnerable",18.6818,-97.658
+"46","Sierra Otomí","Vulnerable",20.1021,-97.622
+"47","Eastern Popoloc","Vulnerable",18.3322,-97.3471
+"48","Central Cuicatec","Vulnerable",17.8,-96.961
+"49","Huehuetlán Mazatec","Vulnerable",18.1964,-96.9471
+"50","Tecóatl Mazatec","Vulnerable",18.1653,-96.9124
+"51","Ocopetatillo Mazatec","Vulnerable",18.1856,-96.9113
+"52","Western Mazatec","Vulnerable",18.1351,-96.9057
+"53","Mazatlán Mazatec","Vulnerable",18.033,-96.8999
+"54","Acatepec Mazatec","Vulnerable",18.1621,-96.8766
+"55","Eloxochitlán Mazatec","Vulnerable",18.1754,-96.8765
+"56","Highland Mazatec","Vulnerable",18.1307,-96.8436
+"57","Puebla Mazatec","Vulnerable",18.476,-96.8351
+"58","Ayautla Mazatec","Vulnerable",18.019,-96.7441
+"59","Northern Cuicatec","Vulnerable",17.9511,-96.7384
+"60","Eastern Cuicatec","Vulnerable",17.9666,-96.7166
+"61","Higher Reservoir Mazatec","Vulnerable",18.158,-96.7045
+"62","Chilchotla Mazatec","Vulnerable",18.2934,-96.7029
+"63","Lowland Mazatec","Vulnerable",18.0801,-96.5236
+"64","Ixcatlán Mazatec","Vulnerable",18.1447,-96.4855
+"65","Soyaltepec Mazatec","Vulnerable",18.2499,-96.3995
+"66","Natsilingmiutut","Vulnerable",68.643,-95.8863
+"67","Northwestern Ojibwe","Vulnerable",52.0016,-95.4274
+"68","Lower Mixe","Vulnerable",16.9616,-95.093
+"69","San Mateo del Mar Huave","Vulnerable",16.2,-94.9833
+"70","Oji-Cree","Vulnerable",53.8141,-94.8977
+"71","Isthmus Náhuatl","Vulnerable",18.2209,-94.8382
+"72","Choctaw (Oklahoma)","Vulnerable",34.1472,-94.81
+"73","Sierra Popoluca","Vulnerable",18.245,-94.76
+"74","Kivallirmiutut","Vulnerable",61.0982,-94.1201
+"75","Akatek (Mexico)","Vulnerable",16.7823,-93.1061
+"76","Choctaw (Louisiana)","Vulnerable",31.6822,-92.1252
+"77","Mam (Guatemala)","Vulnerable",14.9305,-91.9078
+"78","Western Zoque","Vulnerable",16.9063,-91.7333
+"79","Chuj (Guatemala)","Vulnerable",15.8259,-91.4783
+"80","Q'aanjob'al","Vulnerable",15.6019,-91.4441
+"81","Akatek (Guatemala)","Vulnerable",15.5724,-91.4218
+"82","Awakatek (Guatemala)","Vulnerable",15.3429,-91.312
+"83","K'iche' (Guatemala)","Vulnerable",15.0309,-91.1485
+"84","Ixil (Guatemala)","Vulnerable",15.4849,-91.0358
+"85","Uspantek","Vulnerable",15.3475,-90.8684
+"86","Kaqchikel (Guatemala)","Vulnerable",14.7814,-90.7925
+"87","Achi'","Vulnerable",15.0845,-90.4888
+"88","Poqomchi'","Vulnerable",15.3757,-90.4288
+"89","Q'eqchi' (Guatemala)","Vulnerable",15.4707,-90.3722
+"90","Choctaw (Mississipi)","Vulnerable",32.7713,-89.1163
+"91","Garífuna (Guatemala)","Vulnerable",15.8268,-88.7506
+"92","Garífuna (Belize)","Vulnerable",17.1833,-88.5833
+"93","Q'eqchi' (Belize)","Vulnerable",16.8107,-88.3999
+"94","Garífuna (Honduras)","Vulnerable",15.6754,-88.1476
+"95","Miskito (Honduras)","Vulnerable",15.3393,-84.6034
+"96","Panamahka","Vulnerable",14.2856,-84.5947
+"97","Miskito (Nicaragua)","Vulnerable",12.4001,-83.7332
+"98","Cabécar","Vulnerable",9.9012,-83.6844
+"99","Bribri (Costa Rica)","Vulnerable",9.5596,-83.3073
+"100","Aivilingmiutut","Vulnerable",64.1657,-83.243
+"101","Ngäbere (Panama)","Vulnerable",9.3395,-82.2428
+"102","San Andres Creole","Vulnerable",12.5833,-81.7
+"103","Moose Cree","Vulnerable",52.2827,-81.6276
+"104","Qikiqtaaluk uannangani","Vulnerable",69.3878,-81.615
+"105","Mikasuki","Vulnerable",26.3202,-80.9877
+"106","Kuna (Panama)","Vulnerable",9.5983,-79.6334
+"107","Northern East Cree","Vulnerable",53.6916,-78.8011
+"108","Awajun","Vulnerable",-4.3464,-77.8271
+"109","Wampis","Vulnerable",-3.4476,-77.7941
+"110","Embera (Panama)","Vulnerable",8.1179,-77.7429
+"111","Northern Algonquin","Vulnerable",48.0616,-77.3521
+"112","Waunana (Colombia)","Vulnerable",4.2806,-77.0581
+"113","Embera (Colombia)","Vulnerable",6.1624,-76.8383
+"114","Waotededo","Vulnerable",-1.1864,-76.6296
+"115","Urarina","Vulnerable",-4.3464,-75.3002
+"116","Atikamekw","Vulnerable",47.2104,-74.3827
+"117","Ashaninka (Peru)","Vulnerable",-10.6929,-74.3444
+"118","Quechua of Peruvian Amazonia","Vulnerable",-2.3723,-74.1137
+"119","Kogui","Vulnerable",10.8548,-74.0258
+"120","Southern East Cree","Vulnerable",50.587,-73.6365
+"121","Aruaco","Vulnerable",10.0986,-73.5424
+"122","Mayoruna (Peru)","Vulnerable",-5.5285,-73.4765
+"123","Barí","Vulnerable",9.0261,-73.2678
+"124","Ashaninka (Brazil)","Vulnerable",-9.3786,-73.1414
+"125","Yukpa","Vulnerable",9.7956,-72.9382
+"126","Nanti","Vulnerable",-11.6629,-72.6965
+"127","Quechua of Cuzco","Vulnerable",-13.4537,-72.0098
+"128","Guajiro","Vulnerable",11.8673,-71.9824
+"129","Bora","Vulnerable",-2.7455,-71.8835
+"130","Cashinahua (Brazil)","Vulnerable",-9.2603,-71.5304
+"131","Korúbo","Vulnerable",-5.8346,-70.9277
+"132","Matís","Vulnerable",-6.1405,-70.664
+"133","Cubeo (Colombia)","Vulnerable",1.5,-70.5
+"134","Machineri (Brazil)","Vulnerable",-10.5742,-70.4882
+"135","Marúbo","Vulnerable",-6.0968,-70.2246
+"136","Shanenawa","Vulnerable",-8.1014,-70.2129
+"137","Yawanawá","Vulnerable",-10.8333,-70.0927
+"138","Tucano (Colombia)","Vulnerable",0.6921,-69.8291
+"139","Yaminahua (Brazil)","Vulnerable",-10.6606,-69.6972
+"140","Yuhup (Brazil)","Vulnerable",-1.0546,-69.3896
+"141","Quechua of Northern Bolivia","Vulnerable",-15.3649,-69.0518
+"142","Bara (Brazil)","Vulnerable",0.3515,-68.9721
+"143","Sikuani","Vulnerable",3.4256,-68.8183
+"144","Culina (Brazil)","Vulnerable",-7.1008,-68.7744
+"145","Dâw","Vulnerable",0.2197,-68.7744
+"146","Katukína-Kanamarí","Vulnerable",-5.6159,-68.7304
+"147","Western Montagnais","Vulnerable",48.9635,-68.5729
+"148","Qikiqtaaluk nigiani","Vulnerable",63.7577,-68.5178
+"149","Kurripako (Brazil)","Vulnerable",0.7001,-68.3789
+"150","Jamamadí","Vulnerable",-9.0424,-68.3789
+"151","Nunavimmiutitut","Vulnerable",58.1665,-68.3605
+"152","Aymara","Vulnerable",-16.5835,-68.302
+"153","Baníwa do Içana","Vulnerable",1.2743,-68.291
+"154","Hupda (Brazil)","Vulnerable",0.7909,-68.247
+"155","Dení","Vulnerable",-6.5773,-68.1591
+"156","Macuna (Brazil)","Vulnerable",1.1395,-67.7636
+"157","Wanano / Kotiria (Brazil)","Vulnerable",0.6152,-67.5
+"158","Siriano (Brazil)","Vulnerable",0.5244,-67.5
+"159","Tucano (Brazil)","Vulnerable",0.1757,-67.2363
+"160","Suruahá","Vulnerable",-6.8828,-66.9726
+"161","Tuyuca (Brazil)","Vulnerable",0.4394,-66.8847
+"162","Chimané","Vulnerable",-15.2629,-66.8518
+"163","Naskapi","Vulnerable",54.903,-66.802
+"164","Piaroa (Venezuela)","Vulnerable",4.5435,-66.7089
+"165","Panare","Vulnerable",6.5445,-66.4233
+"166","Eastern Montagnais","Vulnerable",50.2136,-66.193
+"167","Quechua of Southern Bolivia","Vulnerable",-18.0675,-65.7641
+"168","Hodi","Vulnerable",6.075,-65.6323
+"169","Jarawára","Vulnerable",-7.2153,-65.0115
+"170","Mayoruna (Brazil)","Vulnerable",-3.3379,-64.8413
+"171","Yanomami (Venezuela)","Vulnerable",2.5918,-64.7314
+"172","Banawá Yafi","Vulnerable",-6.6427,-64.5996
+"173","Yecuana (Venezuela)","Vulnerable",4.8501,-64.5117
+"174","Sanema (Venezuela)","Vulnerable",4.4669,-64.1931
+"175","Karitiana","Vulnerable",-9.7307,-64.0942
+"176","Guaraní Boliviano","Vulnerable",-20.1694,-63.8525
+"177","Yanomám","Vulnerable",3.3818,-63.8085
+"178","Uru-eu-au-au","Vulnerable",-11.6852,-63.6547
+"179","Ninam (Venezuela)","Vulnerable",4.5435,-63.5668
+"180","Yanomami (Brazil)","Vulnerable",3.0746,-63.457
+"181","Wichi","Vulnerable",-22.0041,-63.413
+"182","Yecuana (Brazil)","Vulnerable",2.8552,-63.3251
+"183","Sanema (Brazil)","Vulnerable",2.8113,-63.0615
+"184","Ninam (Brazil)","Vulnerable",3.1185,-62.9736
+"185","Pemon (Venezuela)","Vulnerable",5.1347,-61.853
+"186","Gavião de Rondônia","Vulnerable",-10.4445,-61.6992
+"187","Karo","Vulnerable",-10.5749,-61.5893
+"188","Paiter","Vulnerable",-11.1245,-61.3476
+"189","Macushi (Brazil)","Vulnerable",3.7765,-61.1279
+"190","Pirahã","Vulnerable",-6.9264,-61.1279
+"191","Zoró","Vulnerable",-10.9519,-61.0729
+"192","Waimirí-Atroarí","Vulnerable",-1.0985,-60.8203
+"193","Micmac (Canada)","Vulnerable",45.9646,-60.6172
+"194","Patamona (Brazil)","Vulnerable",4.5216,-60.3808
+"195","Nivaclé","Vulnerable",-23.3019,-60.3369
+"196","Akawaio (Brazil)","Vulnerable",4.1711,-60.249
+"197","Pemon (Brazil)","Vulnerable",4.664,-60.216
+"198","Patamona (Guyana)","Vulnerable",4.5873,-59.8095
+"199","Nambiquara do Norte","Vulnerable",-11.8028,-59.8095
+"200","Enawenê-Nawê","Vulnerable",-12.5223,-59.7656
+"201","Cinta Larga","Vulnerable",-11.4154,-59.7216
+"202","Wapishana (Guyana)","Vulnerable",2.3065,-59.6997
+"203","Nambiquara do Sul","Vulnerable",-13.2506,-59.5404
+"204","Myky","Vulnerable",-12.5331,-59.5019
+"205","Macushi (Guyana)","Vulnerable",3.6888,-59.4799
+"206","Pilagá","Vulnerable",-25.4035,-58.6669
+"207","Hixkaryána","Vulnerable",-0.5493,-58.5131
+"208","Waiwai (Guyana)","Vulnerable",1.5598,-58.5131
+"209","Waiwai (Brazil)","Vulnerable",-0.7909,-58.2714
+"210","Mundurukú","Vulnerable",-8.1027,-57.3486
+"211","Zo'é","Vulnerable",0.7909,-57.1289
+"212","Mawé","Vulnerable",-3.8642,-56.7773
+"213","Trio (Suriname)","Vulnerable",2.1528,-56.3818
+"214","Katxuyana-Xikuyána","Vulnerable",2.043,-55.4589
+"215","Wayana (Brazil)","Vulnerable",1.3182,-55.2612
+"216","Trio (Brazil)","Vulnerable",1.7136,-55.2392
+"217","Apalai","Vulnerable",1.2084,-55.1074
+"218","Kaiowá Guarani","Vulnerable",-21.5812,-55.0759
+"219","Ñandeva Guarani","Vulnerable",-22.0652,-54.7558
+"220","Panará","Vulnerable",-9.449,-54.5965
+"221","Wayana (Suriname)","Vulnerable",2.7455,-54.58
+"222","Bakairi","Vulnerable",-14.4213,-54.0305
+"223","Ikpeng","Vulnerable",-11.7376,-53.616
+"224","Wauja","Vulnerable",-12.2554,-53.5899
+"225","Xavante","Vulnerable",-14.4832,-53.5305
+"226","Kamaiurá","Vulnerable",-12.1655,-53.4292
+"227","Aweti","Vulnerable",-12.2053,-53.3705
+"228","Yudja","Vulnerable",-10.956,-53.3235
+"229","Kalapalo","Vulnerable",-12.1574,-53.2521
+"230","Mehináku","Vulnerable",-12.5423,-53.2403
+"231","Kayabi","Vulnerable",-11.1972,-53.2342
+"232","Kuikuro","Vulnerable",-12.35,-53.21
+"233","Kisêdjê","Vulnerable",-11.5795,-53.031
+"234","Arara do Pará","Vulnerable",-3.7546,-52.976
+"235","Wajãpi","Vulnerable",0.747,-52.8442
+"236","Akwáwa","Vulnerable",-5.2441,-52.7014
+"237","Mebengokre","Vulnerable",-6.5569,-52.4707
+"238","Asurini do Xingu","Vulnerable",-3.9095,-52.4707
+"239","Araweté","Vulnerable",-5.1347,-52.3388
+"240","Galibi Marworno","Vulnerable",3.4256,-52.0312
+"241","West Greenlandic","Vulnerable",64.1681,-51.7236
+"242","Palikur (Brazil)","Vulnerable",4.0396,-51.7236
+"243","Karipuna do Amapá","Vulnerable",3.3379,-51.6796
+"244","Mbya Guarani (Brazil)","Vulnerable",-30.1451,-50.625
+"245","Tapirapé","Vulnerable",-10.6606,-50.4602
+"246","Karajá","Vulnerable",-11.0921,-50.3393
+"247","Gavião do Pará","Vulnerable",-5.1784,-48.999
+"248","Apinajé","Vulnerable",-6.0317,-47.5604
+"249","Krahô","Vulnerable",-8.4071,-47.2851
+"250","Guajajara","Vulnerable",-4.8282,-46.8017
+"251","Krikati","Vulnerable",-5.8674,-46.7468
+"252","Pukobyê","Vulnerable",-5.3316,-46.7138
+"253","Ka'apór","Vulnerable",-2.8991,-46.3183
+"254","Guajá","Vulnerable",-3.4914,-46.2963
+"255","Kanela Apaniekra","Vulnerable",-6.2716,-46.1865
+"256","Kanela Rankokamekra","Vulnerable",-6.075,-44.9121
+"257","Maxakali","Vulnerable",-16.5519,-40.3417
+"258","Paloor","Vulnerable",14.7801,-16.8035
+"259","Karone","Vulnerable",12.7769,-16.7733
+"260","Ediamat","Vulnerable",12.2621,-16.5289
+"261","Noon","Vulnerable",14.8173,-16.5234
+"262","Gusilay","Vulnerable",12.7019,-16.4382
+"263","Bayot","Vulnerable",12.4218,-16.4149
+"264","Bandial","Vulnerable",12.5317,-16.1553
+"265","Bainouk-Gunyaamolo","Vulnerable",12.7421,-16.1141
+"266","Jola-Kassa","Vulnerable",13.1089,-15.8999
+"267","Mancagne","Vulnerable",12.7743,-15.6967
+"268","Bassari","Vulnerable",12.4419,-12.6617
+"269","Faroese","Vulnerable",62.0112,-6.7785
+"270","Scots","Vulnerable",56.2189,-3.7683
+"271","Welsh","Vulnerable",52.4459,-3.5485
+"272","Basque","Vulnerable",43.133,-2.0764
+"273","Konni","Vulnerable",10.3311,-1.6973
+"274","Figuig","Vulnerable",32.0895,-1.2222
+"275","Tuwuli","Vulnerable",7.0572,0.3845
+"276","Tafi","Vulnerable",6.73,0.4421
+"277","Tayurayt","Vulnerable",36.5648,1.9061
+"278","Tacenwit","Vulnerable",36.5703,2.2892
+"279","West Flemish","Vulnerable",51.0275,3.0541
+"280","Tamzabit","Vulnerable",32.4816,3.6694
+"281","Reshe","Vulnerable",10.8791,4.6115
+"282","Tamahaq (Algeria)","Vulnerable",22.8369,5.5371
+"283","West Frisian","Vulnerable",53.1006,5.6579
+"284","Limburgian-Ripuarian","Vulnerable",50.7781,6.0864
+"285","Moselle Franconian","Vulnerable",49.6071,6.1248
+"286","Alemannic","Vulnerable",47.2792,7.6904
+"287","Tamajeq","Vulnerable",17.2352,8.0859
+"288","Rhenish Franconian","Vulnerable",49.4467,8.2067
+"289","Ghadames","Vulnerable",30.1166,9.5251
+"290","Gera","Vulnerable",10.5553,10.0579
+"291","Low Saxon","Vulnerable",53.4029,10.3601
+"292","East Franconian","Vulnerable",50.0571,10.7336
+"293","Bade","Vulnerable",12.801,11.1181
+"294","Venetan","Vulnerable",45.4601,12.1948
+"295","Bavarian","Vulnerable",48.4146,12.6123
+"296","Scanian","Vulnerable",55.724,13.6614
+"297","Sicilian","Vulnerable",37.4399,14.5019
+"298","South Italian","Vulnerable",40.9798,15.249
+"299","Karang","Vulnerable",8.3093,15.3588
+"300","|Gui","Vulnerable",-21.8385,21.7858
+"301","Eastern Slovak","Vulnerable",48.8068,21.7968
+"302","ǁGana","Vulnerable",-21.7824,21.8971
+"303","Torlak","Vulnerable",42.9644,22.1374
+"304","Rusyn","Vulnerable",48.4437,22.9394
+"305","Polesian","Vulnerable",51.8629,23.9501
+"306","Yulu","Vulnerable",8.3854,24.1754
+"307","Thuri","Vulnerable",8.4397,25.4333
+"308","Feroge","Vulnerable",8.5049,25.7189
+"309","Latgalian","Vulnerable",56.1822,27.1362
+"310","Belarusian","Vulnerable",53.956,27.5756
+"311","Amba","Vulnerable",0.6737,30.198
+"312","Heiban","Vulnerable",10.8575,30.2371
+"313","Tennet","Vulnerable",4.8611,33.2226
+"314","Kwama","Vulnerable",9.5465,34.2059
+"315","Suba","Vulnerable",-0.9942,34.519
+"316","Dongotono","Vulnerable",4.965,35.321
+"317","Hadza","Vulnerable",-3.401,35.3897
+"318","Burunge","Vulnerable",-4.7297,35.7769
+"319","Nayi","Vulnerable",7.2698,36.1724
+"320","Dimme","Vulnerable",5.9548,36.2988
+"321","Chara","Vulnerable",6.479,36.3647
+"322","Mursi","Vulnerable",5.5831,36.5075
+"323","Oyda","Vulnerable",5.9438,36.6503
+"324","Bussa","Vulnerable",5.7225,37.1406
+"325","Vidunda","Vulnerable",-6.8664,37.304
+"326","Yem","Vulnerable",7.6347,37.3205
+"327","Burji","Vulnerable",2.1857,37.9248
+"328","Adyge","Vulnerable",44.9181,39.7485
+"329","Zazaki","Vulnerable",38.8824,40.4846
+"330","Abkhaz","Vulnerable",43.133,40.8471
+"331","Karachay-Balkar","Vulnerable",44.2137,42.8466
+"332","Kabard-Cherkes","Vulnerable",43.7393,43.4289
+"333","Ossete","Vulnerable",42.9564,44.4946
+"334","Ingush","Vulnerable",43.145,45.1043
+"335","Chechen","Vulnerable",43.1971,45.7031
+"336","Avar","Vulnerable",42.4801,46.8017
+"337","Kumyk","Vulnerable",43.397,46.9775
+"338","Chuvash","Vulnerable",56.1394,47.2412
+"339","Lak","Vulnerable",42.0125,47.2521
+"340","Dargwa","Vulnerable",42.1145,47.4938
+"341","Tabasaran","Vulnerable",41.8081,47.9882
+"342","Lezgian","Vulnerable",41.4921,48.0541
+"343","Talysh","Vulnerable",38.814,48.6804
+"344","Khalaj","Vulnerable",34.3751,50.3063
+"345","Bashkir","Vulnerable",54.7309,55.9863
+"346","Khorasani Turk","Vulnerable",36.6596,57.854
+"347","Brahui","Vulnerable",29.0369,66.5826
+"348","Pashayi","Vulnerable",34.66,70.2
+"349","Shughni","Vulnerable",37.4879,71.5374
+"350","Khowar","Vulnerable",35.8667,71.7956
+"351","Maiya","Vulnerable",35.3151,72.908
+"352","Burushaski","Vulnerable",35.909,74.2153
+"353","Tulu","Vulnerable",12.0178,75.7067
+"354","Purik","Vulnerable",34.3706,76.0144
+"355","Balti","Vulnerable",35.0659,76.1901
+"356","Padri","Vulnerable",33.8886,76.3
+"357","Irula","Vulnerable",11.4369,76.5032
+"358","Manchad","Vulnerable",32.6578,77.5415
+"359","Ladakhi","Vulnerable",34.0617,77.5909
+"360","Spiti","Vulnerable",32.2871,78.2652
+"361","Garhwali","Vulnerable",30.0976,79.1235
+"362","Rongpo","Vulnerable",30.7229,79.7387
+"363","Kumaoni","Vulnerable",29.4778,79.8486
+"364","Korku","Vulnerable",20.3034,80.2441
+"365","Gondi","Vulnerable",19.5804,80.4418
+"366","Sora","Vulnerable",19.1244,83.2104
+"367","Gutob","Vulnerable",18.7086,83.5839
+"368","Thakali","Vulnerable",28.7146,83.6478
+"369","Seke","Vulnerable",28.9282,83.8249
+"370","Kui","Vulnerable",19.5908,83.9575
+"371","Korwa","Vulnerable",22.4922,84.1552
+"372","Ghale","Vulnerable",28.2501,84.718
+"373","Chepang","Vulnerable",27.7552,84.8144
+"374","Kurux (India)","Vulnerable",22.1467,85.2758
+"375","Angika","Vulnerable",24.7451,85.3124
+"376","Kharia","Vulnerable",21.8003,85.4956
+"377","Tamang","Vulnerable",27.7365,85.6858
+"378","Mundari","Vulnerable",22.3297,86.0449
+"379","Sunwar","Vulnerable",27.3485,86.2337
+"380","Jero","Vulnerable",27.2241,86.3909
+"381","Wambule","Vulnerable",27.1746,86.4363
+"382","Ho","Vulnerable",21.637,86.4404
+"383","Bhumji","Vulnerable",21.8003,86.8139
+"384","Sherpa","Vulnerable",27.739,86.839
+"385","Kohi","Vulnerable",27.3607,86.8661
+"386","Kulung","Vulnerable",27.518,86.9375
+"387","Sampang","Vulnerable",27.257,86.9444
+"388","Bantawa","Vulnerable",27.0994,87.0048
+"389","Koda","Vulnerable",22.1263,87.0776
+"390","Kurux (Nepal)","Vulnerable",26.6032,87.2259
+"391","Shingsaba","Vulnerable",27.7163,87.4731
+"392","Satār","Vulnerable",26.5541,87.918
+"393","Kurux (Bangladesh)","Vulnerable",25.8196,88.9672
+"394","Dzongkha","Vulnerable",27.44,89.6731
+"395","Nyenkha","Vulnerable",27.4595,90.4119
+"396","Nupbikha","Vulnerable",27.3937,90.5003
+"397","Bumthang","Vulnerable",27.492,90.7159
+"398","Kurtöp","Vulnerable",27.7127,90.9667
+"399","Rabha","Vulnerable",25.9284,90.9777
+"400","Kheng","Vulnerable",27.0786,91.0272
+"401","Gongduk","Vulnerable",27.086,91.2002
+"402","Dzala","Vulnerable",27.7078,91.3623
+"403","Kokborok","Vulnerable",23.7752,91.6918
+"404","Khasi","Vulnerable",25.691,91.8676
+"405","Tshangla","Vulnerable",27.1275,91.9335
+"406","Hrangkhol","Vulnerable",24.1467,92.3071
+"407","Sherdukpen","Vulnerable",27.1935,92.351
+"408","Bishnupriya Manipuri Creole","Vulnerable",24.297,92.4499
+"409","Bodo","Vulnerable",26.7554,92.8674
+"410","Dimasa","Vulnerable",24.7368,92.9003
+"411","Mizo","Vulnerable",22.9988,92.9223
+"412","Bangni","Vulnerable",28.0331,93.0651
+"413","Sak (Myanmar)","Vulnerable",21.2333,93.0761
+"414","Nyishi","Vulnerable",27.5277,93.0981
+"415","Karbi","Vulnerable",26.2934,93.2299
+"416","Thado","Vulnerable",24.4521,93.2354
+"417","Hmar","Vulnerable",24.577,93.3178
+"418","Paite","Vulnerable",24.1968,93.3563
+"419","Nruanghmei","Vulnerable",24.9661,93.5375
+"420","Zeme","Vulnerable",25.5027,93.5595
+"421","Kabui","Vulnerable",24.7218,93.6584
+"422","Liangmai","Vulnerable",25.2794,93.6694
+"423","Apatani","Vulnerable",27.5228,93.8177
+"424","Mzieme","Vulnerable",25.6019,93.8891
+"425","Meithei","Vulnerable",24.7667,93.8946
+"426","Anal","Vulnerable",24.1517,93.9385
+"427","Maram","Vulnerable",25.185,93.9715
+"428","Angami","Vulnerable",25.7553,94.1308
+"429","Khoirao","Vulnerable",25.2198,94.1583
+"430","Tagin","Vulnerable",28.038,94.2022
+"431","Rengma","Vulnerable",25.958,94.2462
+"432","Mao","Vulnerable",25.5027,94.2681
+"433","Kheza","Vulnerable",25.6811,94.367
+"434","Lhota","Vulnerable",26.1603,94.3725
+"435","Bokar","Vulnerable",28.8735,94.3807
+"436","Maring","Vulnerable",24.6769,94.3835
+"437","Tuvan","Vulnerable",51.7134,94.3945
+"438","Tangkhul","Vulnerable",25.0358,94.4824
+"439","Simi","Vulnerable",25.9777,94.5922
+"440","Ao","Vulnerable",26.4361,94.6472
+"441","Chokri","Vulnerable",25.8691,94.7131
+"442","Galo","Vulnerable",28.1688,94.7433
+"443","Pochuri","Vulnerable",25.6712,94.779
+"444","Phom","Vulnerable",26.7799,94.9493
+"445","Chang","Vulnerable",26.2934,94.9493
+"446","Sangtam","Vulnerable",26.6032,94.9603
+"447","Yimchungru","Vulnerable",25.9629,94.9713
+"448","Minyong","Vulnerable",28.2632,95.0537
+"449","Khiamngan","Vulnerable",26.0518,95.1031
+"450","Konyak","Vulnerable",26.9367,95.1745
+"451","Adi","Vulnerable",28.3527,95.2294
+"452","Cuona Menba","Vulnerable",26.8279,95.3623
+"453","Padam","Vulnerable",28.2463,95.3668
+"454","Wancho","Vulnerable",26.9759,95.4656
+"455","Nocte","Vulnerable",27.1618,95.7952
+"456","Taruang","Vulnerable",28.12,95.88
+"457","Miju","Vulnerable",28.1155,96.2896
+"458","Tangsa","Vulnerable",27.4059,96.427
+"459","Khampti","Vulnerable",27.8827,96.5093
+"460","Mon","Vulnerable",16.4666,97.7833
+"461","Zaozou","Vulnerable",26.1554,99.2944
+"462","Tanglang","Vulnerable",26.0863,99.7119
+"463","Lalo","Vulnerable",25.383,99.9426
+"464","Patani Malay","Vulnerable",6.6482,100.0387
+"465","Zhaba","Vulnerable",31.4,100.4734
+"466","Muda","Vulnerable",21.8421,100.6851
+"467","Sangkong","Vulnerable",21.5158,100.6957
+"468","Khmin","Vulnerable",22.0469,100.8065
+"469","Naluo","Vulnerable",26.5895,100.8506
+"470","Guichong","Vulnerable",30.8148,101.7021
+"471","Muya","Vulnerable",30.2593,101.7497
+"472","Namuyi","Vulnerable",28.0727,101.9565
+"473","Hlersu","Vulnerable",24.3789,102.046
+"474","Phunoi","Vulnerable",21.6833,102.1
+"475","Enggano","Vulnerable",-5.4191,102.2717
+"476","Salar","Vulnerable",36.2752,102.4584
+"477","Santa","Vulnerable",35.5411,102.7935
+"478","Talu","Vulnerable",26.5623,102.8506
+"479","Baima","Vulnerable",33.1531,103.8696
+"480","Phula (China)","Vulnerable",22.6001,104.0004
+"481","Tai Neua","Vulnerable",20.5166,104.3166
+"482","Tai Daeng","Vulnerable",19.8833,104.6166
+"483","Nung Ven","Vulnerable",23.15,105.2166
+"484","Nguon","Vulnerable",17.5333,105.3833
+"485","Western Cham","Vulnerable",12.0333,105.4333
+"486","Baheng (Viet Nam)","Vulnerable",22.8166,106.35
+"487","Maonan","Vulnerable",24.8341,107.577
+"488","Mulam","Vulnerable",24.6341,108.2895
+"489","Chru","Vulnerable",11.4666,109.05
+"490","Wuse","Vulnerable",24.878,109.1053
+"491","Baheng (China)","Vulnerable",26.19,110.24
+"492","Waxiang","Vulnerable",28.5652,110.3576
+"493","Dakka","Vulnerable",-3.316,119.2071
+"494","Lauje","Vulnerable",-0.4531,119.9816
+"495","Pendau","Vulnerable",0.1922,120.0091
+"496","Tajio","Vulnerable",-0.0954,120.0173
+"497","Lemolang","Vulnerable",-2.6303,120.1849
+"498","Ampibabo Lauje","Vulnerable",0.3295,120.1904
+"499","Napu","Vulnerable",-1.2882,120.2536
+"500","Totoli","Vulnerable",0.8953,120.2838
+"501","Nyangumarta","Vulnerable",-20.016,120.4101
+"502","Besoa","Vulnerable",-1.7163,120.4211
+"503","Dondo","Vulnerable",0.747,120.4266
+"504","Paiwan","Vulnerable",22.4313,120.7809
+"505","Rukai","Vulnerable",22.792,120.8104
+"506","Tsou","Vulnerable",23.5174,120.8564
+"507","Wotu","Vulnerable",-2.6303,120.888
+"508","Tialo","Vulnerable",0.4888,120.8935
+"509","Kodeoha","Vulnerable",-3.4147,120.9155
+"510","Boano","Vulnerable",0.4724,120.9979
+"511","Pyuma","Vulnerable",22.8027,121.0748
+"512","Rahambuu","Vulnerable",-3.1898,121.0858
+"513","Bunun","Vulnerable",23.3624,121.1077
+"514","Padoe","Vulnerable",-2.6467,121.2615
+"515","Tayal","Vulnerable",24.5458,121.3591
+"516","Amis","Vulnerable",23.4456,121.4483
+"517","Taroko","Vulnerable",24.0916,121.5218
+"518","Yami","Vulnerable",22.0512,121.5403
+"519","Central Cagayan Agta","Vulnerable",17.9891,121.8603
+"520","Tombelala","Vulnerable",-2.5315,121.9454
+"521","Dupaninan Agta","Vulnerable",17.9682,122.0361
+"522","Busoa","Vulnerable",-5.5722,122.6074
+"523","Saluan","Vulnerable",-0.8129,122.871
+"524","Martuwangka","Vulnerable",-24.1975,122.9589
+"525","Andio","Vulnerable",-0.8514,123.1457
+"526","Ngaanyatjarra","Vulnerable",-26.037,124.541
+"527","Adabe","Vulnerable",-8.2549,125.5737
+"528","Habu","Vulnerable",-8.7819,126.0021
+"529","Kairui-Midiki","Vulnerable",-8.7222,126.2878
+"530","Kukatja","Vulnerable",-21.2074,126.4746
+"531","Naueti","Vulnerable",-8.7357,126.7053
+"532","Lisela","Vulnerable",-3.2392,127.0239
+"533","Taba","Vulnerable",0.0659,127.4084
+"534","Pintupi","Vulnerable",-22.8882,128.3203
+"535","Alune","Vulnerable",-3.0637,128.3752
+"536","Gebe","Vulnerable",-0.1922,129.5397
+"537","Serili","Vulnerable",-8.1136,129.9023
+"538","Pitjantjatjara","Vulnerable",-26.0719,129.9517
+"539","Legenyem","Vulnerable",-0.3186,130.7345
+"540","Yakut","Vulnerable",62.3496,130.8691
+"541","Tiwi","Vulnerable",-11.6091,130.8911
+"542","Biak","Vulnerable",-0.3076,131.2207
+"543","Warlpiri","Vulnerable",-20.8177,131.6601
+"544","As","Vulnerable",-0.736,131.7727
+"545","Arrernte","Vulnerable",-24.1668,132.0996
+"546","Onin","Vulnerable",-2.9745,132.2383
+"547","Arguni","Vulnerable",-2.6632,132.5418
+"548","Iwaidja","Vulnerable",-11.4592,132.55
+"549","Bedoanas","Vulnerable",-2.7263,132.5582
+"550","Erokwanas","Vulnerable",-2.8113,132.6708
+"551","Kunwinjku","Vulnerable",-12.1333,133.4014
+"552","Maung","Vulnerable",-11.913,133.7255
+"553","Kowiai","Vulnerable",-3.9437,134.0881
+"554","Gurrgoni","Vulnerable",-12.1037,134.3408
+"555","Lola","Vulnerable",-6.3316,134.8818
+"556","Auye","Vulnerable",-3.5627,135.9915
+"557","Awera","Vulnerable",-2.7084,136.0395
+"558","Tause","Vulnerable",-2.8744,136.2469
+"559","Gupapuyngu","Vulnerable",-12.6624,136.549
+"560","Anindilyakwa","Vulnerable",-13.9987,136.582
+"561","Fayu","Vulnerable",-3.1,136.8
+"562","Uhunduni","Vulnerable",-4.2054,137.031
+"563","Damal","Vulnerable",-4.2806,137.0324
+"564","Pauwi","Vulnerable",-1.8151,137.8193
+"565","Koneraw","Vulnerable",-8.3854,137.9415
+"566","Obokuitai","Vulnerable",-2.9046,138.0816
+"567","Kaiy","Vulnerable",-2.943,138.1777
+"568","Isirawa","Vulnerable",-1.8783,138.5485
+"569","Taworta","Vulnerable",-3.2776,138.7902
+"570","Momuna","Vulnerable",-5,139
+"571","Dabra","Vulnerable",-3.4092,139.0209
+"572","Itik","Vulnerable",-2.3181,139.148
+"573","Kwansu","Vulnerable",-2.5383,140.2061
+"574","Awyi","Vulnerable",-2.943,140.6359
+"575","Ormu","Vulnerable",-2.5136,140.6675
+"576","Senggi","Vulnerable",-3.4339,140.7685
+"577","Tofanma","Vulnerable",-3.5675,140.7925
+"578","Dubu","Vulnerable",-3.5134,140.8612
+"579","Wik Mungkan","Vulnerable",-12.9403,141.9873
+"580","Bumbita Arapesh","Vulnerable",-3.6449,142.8002
+"581","Bukiyip","Vulnerable",-3.4256,143.0886
+"582","Kaningara","Vulnerable",-4.5784,143.3612
+"583","Kaiep","Vulnerable",-3.6666,143.8166
+"584","Murik","Vulnerable",-3.8368,144.2807
+"585","Chamorro","Vulnerable",13.4323,144.7338
+"586","Guugu Yimidhirr","Vulnerable",-14.8598,144.7338
+"587","Sepa","Vulnerable",-4.3245,144.9755
+"588","Kaki Ae","Vulnerable",-7.9653,145.7858
+"589","Wab","Vulnerable",-5.6296,146.39
+"590","Duwet","Vulnerable",-6.4763,146.8377
+"591","Koitabu","Vulnerable",-9.346,147.1179
+"592","Numbani","Vulnerable",-7.5177,147.2991
+"593","Grass Koiari","Vulnerable",-9.4558,147.5559
+"594","Nauna","Vulnerable",-2.2159,148.1986
+"595","Onjab","Vulnerable",-9.2973,149.1613
+"596","Magori","Vulnerable",-10.2554,149.2108
+"597","Karore","Vulnerable",-6.1542,149.8205
+"598","Sengseng","Vulnerable",-6.0681,150.2792
+"599","Bosilewa","Vulnerable",-9.449,150.661
+"600","Laxudumau","Vulnerable",-2.8922,151.2467
+"601","Kuot","Vulnerable",-3.0692,151.5234
+"602","Taulil","Vulnerable",-4.5435,152.0397
+"603","Kandas","Vulnerable",-4.4121,152.7868
+"604","Budibud","Vulnerable",-9.2973,153.6891
+"605","Hoava","Vulnerable",-8.1883,157.6036
+"606","Kokota","Vulnerable",-8.0347,159.1781
+"607","Gao","Vulnerable",-8.3514,159.8167
+"608","Faghani","Vulnerable",-10.4337,161.5979
+"609","Kumak","Vulnerable",-20.1278,164.0259
+"610","Caac","Vulnerable",-20.3883,164.5614
+"611","Jawe","Vulnerable",-20.4913,164.696
+"612","Fwâi","Vulnerable",-20.7048,164.9034
+"613","Fagauvea (Southern)","Vulnerable",-20.7381,166.4126
+"614","Xaragure","Vulnerable",-21.8054,166.4964
+"615","Fagauvea (Northern)","Vulnerable",-20.4089,166.5444
+"616","Drubea","Vulnerable",-22.0347,166.5527
+"617","Malmariv","Vulnerable",-15.2656,166.9104
+"618","Shark Bay","Vulnerable",-15.2987,167.1459
+"619","Lehali","Vulnerable",-13.5205,167.2998
+"620","Löyöp","Vulnerable",-13.5311,167.3368
+"621","Lakon","Vulnerable",-14.251,167.422
+"622","Labo","Vulnerable",-16.4492,167.4481
+"623","Baki","Vulnerable",-16.7013,168.145
+"624","Bierebo","Vulnerable",-16.6539,168.1539
+"625","Emae","Vulnerable",-17.0567,168.3956
+"626","Rotuman","Vulnerable",-12.5063,177.0776
+"627","Maori","Vulnerable",-38.4105,177.3632

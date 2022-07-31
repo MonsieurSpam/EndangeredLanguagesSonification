@@ -1,0 +1,607 @@
+"","Name.in.English","Degree.of.endangerment","Latitude","Longitude"
+"1","East Cape Yupik","Critically endangered",66.0166,-169.7166
+"2","Seward Peninsula Inupiaq (Little Diomede Island)","Critically endangered",65.755,-168.9167
+"3","Seward Peninsula Inupiaq (King Island)","Critically endangered",64.9728,-168.0616
+"4","Aleut (Eastern)","Critically endangered",54.7212,-164.4433
+"5","Seward Peninsula Inupiaq (Norton Sound)","Critically endangered",64.5433,-163.029
+"6","Hawaiian","Critically endangered",21.9226,-160.1147
+"7","Ingalik","Critically endangered",62.1655,-156.3134
+"8","Holikachuk","Critically endangered",64.2254,-155.3027
+"9","Upper Kuskokwim","Critically endangered",63.0091,-154.3889
+"10","Koyukon","Critically endangered",66.3375,-151.1608
+"11","Tanana","Critically endangered",64.605,-149.0625
+"12","Tanacross","Critically endangered",64.2159,-145.9643
+"13","Ahtna","Critically endangered",62.7547,-144.3164
+"14","Upper Tanana (United States of America)","Critically endangered",62.6867,-141.2182
+"15","Han (United States of America)","Critically endangered",64.7837,-141.2172
+"16","Upper Tanana (Canada)","Critically endangered",62.3824,-140.8984
+"17","Han (Canada)","Critically endangered",64.062,-139.4278
+"18","Southern Tutchone","Critically endangered",60.7796,-137.4983
+"19","Tagish","Critically endangered",60.1601,-134.6842
+"20","Tlingit (United States of America)","Critically endangered",58.334,-133.7475
+"21","Tlingit (Canada)","Critically endangered",60.171,-132.7395
+"22","Northern Haida","Critically endangered",54.0397,-132.1776
+"23","Southern Haida","Critically endangered",53.2697,-131.9861
+"24","Tsimshian","Critically endangered",54.5016,-130.3832
+"25","Tahltan","Critically endangered",57.8451,-129.9745
+"26","Haisla","Critically endangered",53.9745,-128.6443
+"27","Heiltsuk","Critically endangered",52.1591,-128.1546
+"28","Kwak'wala","Critically endangered",50.7338,-127.4982
+"29","Bella Coola","Critically endangered",52.3823,-126.7255
+"30","Comox/Sliammon","Critically endangered",49.6795,-124.9542
+"31","Makah","Critically endangered",48.3658,-124.6118
+"32","Tolowa","Critically endangered",41.9566,-124.1915
+"33","Yurok","Critically endangered",41.0607,-124.1413
+"34","Sechelt","Critically endangered",50.0846,-123.7437
+"35","Hupa","Critically endangered",41.7624,-123.7028
+"36","Central Pomo","Critically endangered",38.9704,-123.6893
+"37","Chinook Jargon","Critically endangered",45.0591,-123.6091
+"38","Northern Pomo","Critically endangered",39.4143,-123.3502
+"39","Kashaya","Critically endangered",38.6603,-123.3045
+"40","Squamish","Critically endangered",49.3234,-123.1301
+"41","Southern Pomo","Critically endangered",38.7048,-122.8971
+"42","Sekani","Critically endangered",58.0952,-122.7067
+"43","Achumawi","Critically endangered",40.8816,-122.6715
+"44","Northern Straits Salish","Critically endangered",48.488,-122.6363
+"45","Klallam","Critically endangered",47.8475,-122.585
+"46","Lushootseed","Critically endangered",47.6074,-122.5681
+"47","Lake Miwok","Critically endangered",38.6426,-122.3849
+"48","Wintu-Nomlaki","Critically endangered",39.8637,-122.0822
+"49","Patwin","Critically endangered",38.7608,-122.0354
+"50","Konkow","Critically endangered",39.467,-121.5155
+"51","Kiksht","Critically endangered",44.2708,-121.2871
+"52","Maidu","Critically endangered",40.4134,-120.6738
+"53","Northern Sierra Miwok","Critically endangered",38.4008,-120.5351
+"54","Central Sierra Miwok","Critically endangered",37.962,-120.2384
+"55","Southern Sierra Miwok","Critically endangered",37.6148,-119.789
+"56","Mono (Western)","Critically endangered",37.0943,-119.4999
+"57","Northern Paiute (Oregon)","Critically endangered",43.5883,-119.0595
+"58","Columbian","Critically endangered",48.1764,-119.0523
+"59","Kings River Yokuts","Critically endangered",36.9104,-118.9261
+"60","Tule-Kaweah Yokuts","Critically endangered",36.0269,-118.7213
+"61","Tubatulabal","Critically endangered",35.6444,-118.5183
+"62","Kawaiisu","Critically endangered",35.0589,-118.4026
+"63","Mono (Eastern)","Critically endangered",37.3674,-118.3953
+"64","Spokane","Critically endangered",47.9286,-118.0165
+"65","Kalispel","Critically endangered",48.2549,-117.2174
+"66","Luiseño","Critically endangered",33.4622,-117.1269
+"67","Coeur d'Alene","Critically endangered",43.3433,-116.8873
+"68","Ipai","Critically endangered",32.9359,-116.868
+"69","Panamint","Critically endangered",36.4555,-116.8666
+"70","Nez Perce","Critically endangered",46.4347,-116.8268
+"71","Cahuilla","Critically endangered",33.5404,-116.7436
+"72","Kiliwa","Critically endangered",31.25,-115.6166
+"73","Assiniboine (United States of America)","Critically endangered",48.4466,-114.8783
+"74","Sarcee","Critically endangered",50.9682,-114.3851
+"75","Chemehuevi","Critically endangered",34.0138,-114.2146
+"76","Montana Salish","Critically endangered",47.5944,-114.1182
+"77","Northern Paiute (Idaho)","Critically endangered",43.0439,-112.4566
+"78","Mayo","Critically endangered",26.9114,-109.6271
+"79","Gros Ventre","Critically endangered",48.4824,-108.7639
+"80","Lakota","Critically endangered",49.3276,-106.4439
+"81","Michif","Critically endangered",51.3119,-103.979
+"82","Assiniboine (Canada)","Critically endangered",50.3536,-103.4841
+"83","Mandan","Critically endangered",47.5165,-102.2461
+"84","Arikara","Critically endangered",47.648,-101.8327
+"85","Kickapoo (Mexico)","Critically endangered",28,-101.75
+"86","Kiowa Apache","Critically endangered",35.1018,-98.6033
+"87","Mescalero-Chiricahua Apache (Oklahoma)","Critically endangered",34.8986,-98.3589
+"88","Wichita","Critically endangered",35.0647,-98.2788
+"89","Caddo","Critically endangered",35.0985,-98.2603
+"90","Ozomatlán Totonac","Critically endangered",20.1766,-98.0527
+"91","Northern Totonac","Critically endangered",20.2741,-97.955
+"92","Ixcatec","Critically endangered",17.8493,-97.181
+"93","Bungee","Critically endangered",50.0667,-96.9763
+"94","Potawatomi (Oklahoma)","Critically endangered",35.3135,-96.9255
+"95","Zapotec of San Felipe Tejalapan","Critically endangered",17.1099,-96.8539
+"96","Pawnee","Critically endangered",36.3372,-96.8032
+"97","Misantla Totonac","Critically endangered",19.865,-96.7755
+"98","Omaha-Ponca","Critically endangered",42.0817,-96.4855
+"99","Zapotec of Mixtepe","Critically endangered",16.2666,-96.3666
+"100","Osage","Critically endangered",36.6683,-96.3316
+"101","Yuchi","Critically endangered",36.0009,-96.0988
+"102","Potawatomi (Kansas)","Critically endangered",39.3251,-95.8495
+"103","Zapotec of Asunción Tlacolulita","Critically endangered",16.3,-95.7166
+"104","Lowland Chontal","Critically endangered",16.0286,-95.6683
+"105","San Francisco del Mar Huave","Critically endangered",16.3333,-94.5166
+"106","Tabasco Náhuatl","Critically endangered",18.0026,-93.3722
+"107","Ayapanec","Critically endangered",18.2241,-93.1108
+"108","Sauk-Fox","Critically endangered",41.9637,-92.5768
+"109","Tuzantec","Critically endangered",15.1455,-92.4232
+"110","Motocintlec","Critically endangered",15.3709,-92.2484
+"111","Chuj (Mexico)","Critically endangered",16.1203,-92.0407
+"112","Lacandón","Critically endangered",16.706,-91.0641
+"113","Awakatek (Mexico)","Critically endangered",19.3481,-90.7177
+"114","Xinka","Critically endangered",14.3447,-90.2603
+"115","Kaqchikel (Mexico)","Critically endangered",19.4044,-90.0604
+"116","Itzá","Critically endangered",16.9838,-89.899
+"117","Pipil","Critically endangered",13.722,-89.7195
+"118","Ixil (Mexico)","Critically endangered",19.508,-89.3188
+"119","Ch'orti' (Honduras)","Critically endangered",14.9364,-88.865
+"120","Potawatomi (Wisconsin)","Critically endangered",45.5601,-88.83
+"121","Menominee","Critically endangered",44.9356,-88.6144
+"122","Oneida (Wisconsin)","Critically endangered",44.5158,-88.0075
+"123","Tol","Critically endangered",15.293,-87.1416
+"124","Bay Islands Creole","Critically endangered",16.3297,-86.5299
+"125","Ottawa (Michigan)","Critically endangered",43.5971,-84.7752
+"126","Potawatomi (Michigan)","Critically endangered",45.0269,-84.1992
+"127","Rama","Critically endangered",11.8847,-83.7995
+"128","Garífuna (Nicaragua)","Critically endangered",12.5666,-83.7166
+"129","Chorotega","Critically endangered",9.8991,-83.6855
+"130","Boruca","Critically endangered",9.001,-83.323
+"131","Teribe (Costa Rica)","Critically endangered",9.0593,-83.2876
+"132","Potawatomi (Canada)","Critically endangered",42.5163,-82.5555
+"133","Munsee (Canada)","Critically endangered",42.57,-81.879
+"134","Oneida (Canada)","Critically endangered",42.8286,-81.4068
+"135","Seneca (Canada)","Critically endangered",43.0555,-80.1938
+"136","Cayuga (Canada)","Critically endangered",43.019,-80.1506
+"137","Onondaga (Canada)","Critically endangered",43.1194,-80.1174
+"138","Tuscarora (Canada)","Critically endangered",43.072,-80.015
+"139","Sia Pedee","Critically endangered",0.9887,-79.1674
+"140","Tuscarora (United States of America)","Critically endangered",43.0877,-79.0627
+"141","Awa Cuaiquer","Critically endangered",1.4939,-78.5742
+"142","Quechua of Chachapoyas","Critically endangered",-6.2606,-77.7722
+"143","Quechua of Pacaraos","Critically endangered",-11.2538,-76.8054
+"144","Zaparo","Critically endangered",-2.2186,-76.5087
+"145","Totoró","Critically endangered",2.504,-76.4016
+"146","Munsee (United States of America)","Critically endangered",40.8969,-76.3769
+"147","Siona / Secoya (Colombia)","Critically endangered",0.493,-76.2464
+"148","Andoa (Peru)","Critically endangered",-2.6796,-76.2011
+"149","Munichi","Critically endangered",-5.8182,-76.1846
+"150","Onondaga (New York)","Critically endangered",43.047,-76.1422
+"151","Jebero","Critically endangered",-5.3097,-75.9814
+"152","Taushiro","Critically endangered",-3.2502,-75.8935
+"153","Quechua of Yauyos","Critically endangered",-12.9081,-75.6958
+"154","Oneida (New York)","Critically endangered",43.0778,-75.6622
+"155","Chamicuro","Critically endangered",-5.5285,-75.5969
+"156","Vacacocha","Critically endangered",-2.0869,-74.5092
+"157","Qawasqar","Critically endangered",-49.6391,-74.3554
+"158","Iquito","Critically endangered",-3.6449,-74.1577
+"159","Tinigua","Critically endangered",2.3833,-73.6413
+"160","Huilliche","Critically endangered",-40.4803,-73.5424
+"161","Poyanawa","Critically endangered",-7.6238,-73.2568
+"162","Omagua (Peru)","Critically endangered",-4.0724,-73.103
+"163","Western Abenaki (Canada)","Critically endangered",46.0785,-72.8141
+"164","Arára Shawãdáwa","Critically endangered",-8.581,-72.29
+"165","Ocaina (Peru)","Critically endangered",-2.8552,-71.9824
+"166","Nonuya","Critically endangered",-0.747,-71.9165
+"167","Añu","Critically endangered",11.022,-71.7352
+"168","Resígaro","Critically endangered",-2.7674,-71.7187
+"169","Huron-Wyandot (Canada)","Critically endangered",46.8722,-71.3651
+"170","Cabiyarí","Critically endangered",0.1208,-71.1474
+"171","Pisamira","Critically endangered",1.0656,-70.4388
+"172","Barasana (Colombia)","Critically endangered",0.0769,-70.3894
+"173","Tehuelche","Critically endangered",-51.5087,-70.3125
+"174","Bara (Colombia)","Critically endangered",0.05,-70.1733
+"175","Carijona","Critically endangered",-1.2743,-70.1147
+"176","Iñapari","Critically endangered",-12.0822,-69.7412
+"177","Piratapuya (Colombia)","Critically endangered",0.8333,-69.5
+"178","Tariana (Colombia)","Critically endangered",0.8349,-69.1918
+"179","Callahuaya","Critically endangered",-15.1357,-69.1699
+"180","Mirití Tapuia","Critically endangered",0.3076,-69.1699
+"181","Warekena (Brazil)","Critically endangered",0.7909,-68.3789
+"182","Baré (Brazil)","Critically endangered",0.4394,-68.2031
+"183","Leco","Critically endangered",-15.586,-67.9064
+"184","Tariana (Brazil)","Critically endangered",0.9228,-67.5439
+"185","Yahgan","Critically endangered",-55.0028,-67.4615
+"186","Kaixána","Critically endangered",-2.0649,-67.4121
+"187","Reyesano","Critically endangered",-14.7748,-66.9396
+"188","Baré (Venezuela)","Critically endangered",1.428,-66.9287
+"189","Wanai","Critically endangered",7.1117,-66.7199
+"190","Cocama-Cocamilla (Brazil)","Critically endangered",-1.8043,-66.5332
+"191","Kaxarari","Critically endangered",-9.5682,-66.1596
+"192","Katawixi","Critically endangered",-8.8416,-66.0937
+"193","Pémono","Critically endangered",5.6487,-65.8081
+"194","Mako","Critically endangered",4.2149,-65.7421
+"195","Miraña (Brazil)","Critically endangered",-2.021,-65.6982
+"196","Pacahuara","Critically endangered",-11.4369,-65.6762
+"197","Cayuvava","Critically endangered",-12.7903,-65.3247
+"198","Oro Win","Critically endangered",-11.6683,-65.1379
+"199","Moré","Critically endangered",-12.0822,-64.9731
+"200","Kujubim","Critically endangered",-11.9963,-64.7534
+"201","Arikapu","Critically endangered",-12.0527,-64.7259
+"202","Omagua (Brazil)","Critically endangered",-3.5572,-64.5117
+"203","Baure","Critically endangered",-13.1008,-64.5007
+"204","Puruborá","Critically endangered",-12.3292,-64.2919
+"205","Salamãy","Critically endangered",-8.7602,-63.9074
+"206","Juma","Critically endangered",-7.4496,-63.8195
+"207","Uruak","Critically endangered",3.9957,-63.5888
+"208","Itonama","Critically endangered",-13.6246,-63.5668
+"209","Sapé","Critically endangered",5.0033,-63.5449
+"210","Jorá","Critically endangered",-14.0246,-63.3581
+"211","Diahói","Critically endangered",-7.9939,-62.1936
+"212","Parintintin","Critically endangered",-6.5773,-61.7871
+"213","Paunaca","Critically endangered",-16.573,-61.4355
+"214","Kanoê","Critically endangered",-13.1222,-61.051
+"215","Guarasu","Critically endangered",-13.4724,-61.0427
+"216","Akuntsu","Critically endangered",-13.1169,-61.018
+"217","Chaná","Critically endangered",-31.8402,-60.5786
+"218","Kwazá","Critically endangered",-12.651,-60.4138
+"219","Sabanê","Critically endangered",-12.5277,-59.6859
+"220","Taruma","Critically endangered",2.515,-59.5678
+"221","Rigolet Inuktitut","Critically endangered",54.1772,-58.4218
+"222","Mawayana (Guyana)","Critically endangered",1.5159,-58.4143
+"223","Mawayana (Brazil)","Critically endangered",-0.9447,-58.2495
+"224","Lokono (Guyana)","Critically endangered",6.2934,-58.0957
+"225","Chiquitano (Brazil)","Critically endangered",-17.4345,-58.0627
+"226","Guaná","Critically endangered",-21.9532,-58.0517
+"227","Iranxe","Critically endangered",-12.6939,-57.843
+"228","Berbice Dutch Creole","Critically endangered",5.3918,-57.777
+"229","Guató","Critically endangered",-17.644,-57.6562
+"230","Apiaká","Critically endangered",-11.1519,-57.3113
+"231","Kinikinau","Critically endangered",-21.0685,-56.2765
+"232","Sikïiyana","Critically endangered",1.9991,-56.2719
+"233","Waiwai (Suriname)","Critically endangered",2.1528,-56.206
+"234","Akuriyo","Critically endangered",2.8442,-55.7556
+"235","Chamacoco","Critically endangered",-23.0595,-55.6127
+"236","Xipáya","Critically endangered",-4.3902,-53.9648
+"237","Kuruáya","Critically endangered",-5.0033,-53.9208
+"238","Trumai","Critically endangered",-11.8807,-53.6009
+"239","Xetá","Critically endangered",-23.2867,-53.3935
+"240","Yawalapiti","Critically endangered",-12.1702,-53.3365
+"241","Matipu","Critically endangered",-12.2366,-53.1875
+"242","Ofayé","Critically endangered",-21.361,-52.0532
+"243","Anambé","Critically endangered",-2.7674,-49.2297
+"244","Xambioá","Critically endangered",-7.1717,-49.1583
+"245","Xokleng","Critically endangered",-26.5522,-49.0779
+"246","Ava-Canoeiro","Critically endangered",-14.0847,-48.0418
+"247","Aurê-Aurá","Critically endangered",-2.9649,-46.2084
+"248","Krenak","Critically endangered",-19.1937,-41.1527
+"249","Mlomp","Critically endangered",12.7421,-16.4904
+"250","Cobiana","Critically endangered",12.4017,-16.3229
+"251","Kasanga","Critically endangered",12.2702,-16.1553
+"252","Baga Mboteni","Critically endangered",10.7415,-14.5513
+"253","Zenaga (Western Sahara)","Critically endangered",22.2687,-13.7109
+"254","Mani","Critically endangered",9.1129,-13.2165
+"255","Kim","Critically endangered",7.2425,-11.9476
+"256","Nemadi","Critically endangered",18.4118,-9.4482
+"257","Ghomara","Critically endangered",35.0108,-5.5151
+"258","Sanhaja of Srair","Critically endangered",34.8318,-4.9658
+"259","Cornish","Critically endangered",50.4575,-4.746
+"260","Manx","Critically endangered",54.2106,-4.5318
+"261","Tamazight (Arzew)","Critically endangered",35.5869,-0.4737
+"262","Animere","Critically endangered",7.6129,0.4064
+"263","Zenatiya","Critically endangered",35.5702,1.8099
+"264","Tchumbuli","Critically endangered",8.7113,2.1533
+"265","Tidikelt","Critically endangered",26.8828,2.5488
+"266","Defaka","Critically endangered",4.538,7.5311
+"267","Ilue","Critically endangered",4.9185,8.2397
+"268","Bakpinka","Critically endangered",5.3644,8.2397
+"269","Kiong","Critically endangered",5.2906,8.3523
+"270","Sambe","Critically endangered",8.6027,8.3825
+"271","Bakole","Critically endangered",4.5764,8.8439
+"272","Kudu-Camo","Critically endangered",11.0166,8.8879
+"273","Gyem","Critically endangered",10.3865,9.3122
+"274","Luri","Critically endangered",9.9255,9.5965
+"275","Yangkam","Critically endangered",9.1048,9.8904
+"276","Akum","Critically endangered",6.73,9.9316
+"277","Bikya","Critically endangered",6.8309,10.0277
+"278","Dulbu","Critically endangered",9.985,10.0579
+"279","Tunisian Judeo-Arabic (Tunisia)","Critically endangered",33.8795,10.0634
+"280","Bishuo","Critically endangered",6.9032,10.0991
+"281","Busuu","Critically endangered",6.8282,10.1087
+"282","Hijuk","Critically endangered",4.2861,10.4919
+"283","Dimbong","Critically endangered",4.7078,10.6567
+"284","Mvanip","Critically endangered",6.7027,11.2225
+"285","Njerep","Critically endangered",6.4572,11.2884
+"286","Somyev","Critically endangered",6.9318,11.5136
+"287","Cambap","Critically endangered",6.4872,11.802
+"288","Bung","Critically endangered",6.5718,11.8267
+"289","Ndai","Critically endangered",8.399,14.1641
+"290","Mono","Critically endangered",8.6679,14.1723
+"291","Zumaya","Critically endangered",10.5323,14.3591
+"292","Jilbe","Critically endangered",11.749,14.5458
+"293","Baldemu","Critically endangered",10.5742,14.5623
+"294","Gottscheerish","Critically endangered",45.6332,14.8123
+"295","Majera","Critically endangered",11.3231,14.9839
+"296","Goundo","Critically endangered",9.4761,16.2652
+"297","Boor","Critically endangered",10.2149,17.3721
+"298","Miltu","Critically endangered",10.2149,17.3913
+"299","Laal","Critically endangered",9.9607,17.6083
+"300","Sawkna","Critically endangered",27.252,17.7539
+"301","Noy","Critically endangered",8.9312,17.8829
+"302","Pite Saami","Critically endangered",66.0447,17.8857
+"303","Tamki","Critically endangered",11.48,18.2125
+"304","Ume Saami","Critically endangered",65.1091,18.2153
+"305","Mabiri","Critically endangered",12.1682,18.7275
+"306","Corfiot Italkian","Critically endangered",39.5908,19.8591
+"307","Massalat","Critically endangered",12.7635,20.5993
+"308","Geme","Critically endangered",8.4941,20.6378
+"309","Xiri","Critically endangered",-31.3924,21.0498
+"310","N|uu","Critically endangered",-28.5169,21.4453
+"311","Livonian","Critically endangered",57.6101,22.2802
+"312","Tsakonian","Critically endangered",37.1712,22.7911
+"313","Cappadocian Greek (Greece)","Critically endangered",40.9798,24.104
+"314","Korana","Critically endangered",-26.9352,24.1254
+"315","ǂHoa","Critically endangered",-24.1668,24.4885
+"316","Danisi","Critically endangered",-19.4769,25.2136
+"317","Aja","Critically endangered",8.6136,25.2465
+"318","Karaim (Western Ukraine)","Critically endangered",50.7538,25.3351
+"319","Buga","Critically endangered",8.2495,25.7574
+"320","|Xaise","Critically endangered",-21.2458,26.1776
+"321","Gagauz (Deli Orman)","Critically endangered",43.5963,26.8286
+"322","Birri","Critically endangered",5.4902,26.8505
+"323","Ngbinda","Critically endangered",4.6092,27.0812
+"324","Vote","Critically endangered",59.5858,28.4518
+"325","Boguru","Critically endangered",4.3902,29.2016
+"326","Wali","Critically endangered",11.9372,29.3005
+"327","Logorik","Critically endangered",11.1433,29.8306
+"328","Tese","Critically endangered",11.2161,29.8471
+"329","Mo'da","Critically endangered",6.5008,29.9377
+"330","Talodi","Critically endangered",10.6902,30.3964
+"331","Shwai","Critically endangered",11.3184,30.4156
+"332","Nding","Critically endangered",10.4121,30.6024
+"333","Ko","Critically endangered",10.6714,30.8386
+"334","Opuuo","Critically endangered",8.3202,33.8873
+"335","Kelo","Critically endangered",9.4463,34.0219
+"336","Aka","Critically endangered",11.0112,34.2333
+"337","Molo","Critically endangered",10.898,34.2773
+"338","Tirma","Critically endangered",6.4899,34.3212
+"339","Soo","Critically endangered",2.161,34.5986
+"340","Anfillo","Critically endangered",8.5049,34.7415
+"341","Barzani Jewish Neo-Aramaic (Israel)","Critically endangered",31.7888,35.1947
+"342","Omotik","Critically endangered",-1.115,35.9143
+"343","Karo","Critically endangered",5.2003,36.0681
+"344","Kwegu","Critically endangered",5.4191,36.0791
+"345","Ongota","Critically endangered",5.3207,37.2244
+"346","Akie","Critically endangered",-4.7735,37.3315
+"347","Ongamo","Critically endangered",-2.932,37.4853
+"348","Gweno","Critically endangered",-3.7135,37.6501
+"349","Ter Saami","Critically endangered",68.0638,38.7063
+"350","Argobba","Critically endangered",10.5958,39.9792
+"351","Dahaalik","Critically endangered",15.6917,40.0671
+"352","Hértevin","Critically endangered",37.9268,42.5473
+"353","Mandaic","Critically endangered",31.3348,48.7023
+"354","Senaya","Critically endangered",36.2664,50.0042
+"355","Koroshi","Critically endangered",29.8978,52.6574
+"356","Bathari","Critically endangered",17.8846,55.5853
+"357","Zidgali","Critically endangered",23.4027,58.0957
+"358","Moghol","Critically endangered",34.3569,61.5875
+"359","Eastern Mansi","Critically endangered",60.7752,67.6098
+"360","Tirahi","Critically endangered",34.3139,70.3729
+"361","Koraga","Critically endangered",11.6952,75.6738
+"362","Nihali","Critically endangered",20.5402,76.0913
+"363","Kuruba","Critically endangered",11.4369,76.3549
+"364","Bellari","Critically endangered",11.6952,76.4648
+"365","Toda","Critically endangered",11.3184,76.8273
+"366","Kota","Critically endangered",11.4154,76.8576
+"367","Pangvali","Critically endangered",33.4589,76.9152
+"368","Baghati","Critically endangered",31.194,77.0471
+"369","Sirmaudi","Critically endangered",30.9823,77.1569
+"370","Handuri","Critically endangered",31.0011,77.3107
+"371","Naiki","Critically endangered",19.8287,78.2281
+"372","Bangani","Critically endangered",29.8692,79.0686
+"373","Central Selkup","Critically endangered",59.8903,82.0129
+"374","Gadaba","Critically endangered",18.3858,82.7819
+"375","Parji","Critically endangered",18.5629,82.8039
+"376","Pengo","Critically endangered",19.0621,83.4851
+"377","Tundra Enets","Critically endangered",71.6973,83.5839
+"378","Manda","Critically endangered",20.1384,84.0289
+"379","Kusunda","Critically endangered",27.9275,84.2866
+"380","Barām","Critically endangered",28.041,84.629
+"381","Southern Selkup","Critically endangered",58.6626,85.8581
+"382","Birhor","Critically endangered",21.7594,85.935
+"383","Hayu","Critically endangered",27.2912,86.0696
+"384","Forest Enets","Critically endangered",68.6836,86.2727
+"385","Surel","Critically endangered",27.6969,86.3058
+"386","Dumi","Critically endangered",27.3095,86.7521
+"387","Yakkha","Critically endangered",27.1908,87.3358
+"388","Chulym Turk","Critically endangered",57.3354,88.1542
+"389","Toto","Critically endangered",26.6867,89.5056
+"390","Ruga","Critically endangered",25.2844,90.4614
+"391","Sentilese","Critically endangered",11.5446,92.2576
+"392","Onge","Critically endangered",10.639,92.4938
+"393","Jarawa","Critically endangered",12.6028,92.752
+"394","Great andamanese","Critically endangered",12.2326,92.9031
+"395","Pu","Critically endangered",8.2549,93.1022
+"396","Na","Critically endangered",28.4638,93.3041
+"397","Luro","Critically endangered",7.915,93.3837
+"398","Mra","Critically endangered",28.3914,93.3837
+"399","Tarao","Critically endangered",24.297,93.4497
+"400","Muot","Critically endangered",8.0932,93.4963
+"401","Sanenyo","Critically endangered",7.9504,93.576
+"402","Purum","Critically endangered",24.3521,93.5925
+"403","Aimol","Critically endangered",24.4971,93.6145
+"404","Lamongse","Critically endangered",7.3134,93.6968
+"405","Koireng","Critically endangered",24.2319,93.7463
+"406","Shompen","Critically endangered",7.0245,93.8232
+"407","Takahanyilang","Critically endangered",6.85,93.8726
+"408","Lamgang","Critically endangered",24.2569,94.0759
+"409","Langrong","Critically endangered",24.4671,94.1473
+"410","Tangam","Critically endangered",29.1473,94.5538
+"411","Tai Nora","Critically endangered",26.8485,94.5648
+"412","Tai Rong","Critically endangered",26.9024,94.757
+"413","Danaw","Critically endangered",21.192,97.3937
+"414","Riang","Critically endangered",21.9048,98.2342
+"415","Chintaw","Critically endangered",24.9263,98.2414
+"416","Tofa","Critically endangered",53.7324,98.2589
+"417","Anung (China)","Critically endangered",26.7368,98.7766
+"418","Samatu","Critically endangered",24.2105,98.9655
+"419","Chung (Thailand)","Critically endangered",14.4897,99.1661
+"420","En","Critically endangered",21.2872,99.4816
+"421","Amok","Critically endangered",21.361,100.6457
+"422","Tailoi","Critically endangered",21.4275,100.7473
+"423","Kentak","Critically endangered",5.5383,100.7861
+"424","Angku","Critically endangered",21.4888,100.8325
+"425","Lamu","Critically endangered",26.2434,100.8654
+"426","Kensiw (Malaysia)","Critically endangered",5.9033,100.9227
+"427","Lanoh","Critically endangered",5.2509,101.0206
+"428","Khövsgöl Uryangkhay","Critically endangered",50.9722,101.3159
+"429","Samray","Critically endangered",13.685,101.5931
+"430","Jahai","Critically endangered",5.3597,101.7763
+"431","Menri'","Critically endangered",5.055,102.2502
+"432","Batek","Critically endangered",4.6695,102.5051
+"433","Kasong","Critically endangered",12.564,102.529
+"434","Samatao","Critically endangered",24.9359,102.7935
+"435","Samrai","Critically endangered",12.5063,102.8344
+"436","Semaq Beri","Critically endangered",4.0012,102.8443
+"437","Samre","Critically endangered",12.1166,103.0833
+"438","Iduh (Lao PDR)","Critically endangered",19.3292,103.3758
+"439","Ayizi","Critically endangered",24.5964,103.7329
+"440","Chung (Cambodia)","Critically endangered",10.6875,103.8084
+"441","So-ng","Critically endangered",11.7244,104.0447
+"442","Iduh (Viet Nam)","Critically endangered",19.4162,104.487
+"443","Chuang","Critically endangered",13.5688,105.0589
+"444","Green Gelao (Viet Nam)","Critically endangered",23.1333,105.25
+"445","Red Gelao (Viet Nam)","Critically endangered",23.1666,105.25
+"446","Red Gelao (China)","Critically endangered",26.2553,105.8571
+"447","Laji","Critically endangered",22.5304,105.885
+"448","Lom","Critically endangered",-1.6751,105.8917
+"449","Aqaw Gelao","Critically endangered",28.7447,106.0714
+"450","Green Gelao (China)","Critically endangered",27.7022,106.0952
+"451","Peco' Creole","Critically endangered",-6.2716,106.7871
+"452","Kraol","Critically endangered",13.588,106.9438
+"453","Kravet","Critically endangered",14.0175,107.0136
+"454","Javindo Creole","Critically endangered",-7.0136,110.4345
+"455","Patua","Critically endangered",22.1632,113.5464
+"456","Punan Batu","Critically endangered",2.6021,114
+"457","Tharkarri","Critically endangered",-24.148,114.6533
+"458","She","Critically endangered",23.3333,115.2459
+"459","Lengilu","Critically endangered",3.7327,115.8728
+"460","Ngarluma","Critically endangered",-21.1664,117.3339
+"461","Kurrama","Critically endangered",-21.6383,117.9711
+"462","Budong-Budong","Critically endangered",-2.0601,119.3074
+"463","Taje","Critically endangered",-0.747,120.086
+"464","Dampel","Critically endangered",0.7923,120.2494
+"465","Kanakanabu","Critically endangered",23.1463,120.6782
+"466","Saaroa","Critically endangered",23.1283,120.7062
+"467","Pazeh","Critically endangered",24.2469,120.7727
+"468","Thao","Critically endangered",23.8808,120.9206
+"469","Nataoran","Critically endangered",24.0088,121.5898
+"470","Kavalan","Critically endangered",24.7393,121.6996
+"471","Alabat Island Agta","Critically endangered",14.1209,122.0282
+"472","Karajarri","Critically endangered",-19.0205,122.3437
+"473","Mangarla","Critically endangered",-20.159,122.6513
+"474","Ata","Critically endangered",9.6081,122.9155
+"475","Isarog Agta","Critically endangered",13.6805,123.3805
+"476","Lolak","Critically endangered",0.8569,124.0081
+"477","Southern Ayta","Critically endangered",13.027,124.1549
+"478","Manchurian Kirghiz","Critically endangered",47.8,124.2
+"479","Manchu (Nonni)","Critically endangered",48.0083,124.3542
+"480","Worrorra","Critically endangered",-16.4887,124.6289
+"481","Wunambal","Critically endangered",-15.6124,125.0024
+"482","Aputai","Critically endangered",-7.6511,126.4086
+"483","Jeju","Critically endangered",33.3671,126.4974
+"484","Maku'a","Critically endangered",-8.4017,127.2271
+"485","Manchu (Amur)","Critically endangered",49.7666,127.5
+"486","Ibu","Critically endangered",1.5269,127.5265
+"487","Dagur (Amur)","Critically endangered",49.5252,127.5402
+"488","Yiiji","Critically endangered",-15.8458,127.6281
+"489","Kamarian","Critically endangered",-3.4366,128.5345
+"490","Hulung","Critically endangered",-2.8614,128.5606
+"491","Ngardi","Critically endangered",-20.6327,128.5839
+"492","Gajerrong","Critically endangered",-15.222,128.6059
+"493","Paulohi","Critically endangered",-3.2721,128.757
+"494","Nusa Laut","Critically endangered",-3.6833,128.8
+"495","Loun","Critically endangered",-2.8717,128.8366
+"496","Miriwoong","Critically endangered",-16.7631,128.9025
+"497","Amahai","Critically endangered",-3.3352,128.9314
+"498","Maringarr","Critically endangered",-14.1525,129.6166
+"499","Marrisyefin","Critically endangered",-13.934,129.8254
+"500","Marrithiyel","Critically endangered",-13.806,130.0451
+"501","Hoti","Critically endangered",-3.0143,130.3692
+"502","Madngele","Critically endangered",-13.3789,130.5395
+"503","Malak Malak","Critically endangered",-13.7713,130.6384
+"504","Duriankere","Critically endangered",-1.3896,130.9247
+"505","Ngaliwuru","Critically endangered",-15.5595,131.0614
+"506","Tobian","Critically endangered",2.9594,131.8084
+"507","Rembarrnga","Critically endangered",-13.3896,133.6706
+"508","Kilen","Critically endangered",47.4689,133.8574
+"509","Mangarrayi","Critically endangered",-14.8067,133.8793
+"510","Mansim","Critically endangered",-0.9008,134.0441
+"511","Alawa","Critically endangered",-16.4676,134.0771
+"512","Dusner","Critically endangered",-2.7139,134.3888
+"513","Ngalakan","Critically endangered",-14.5729,134.4946
+"514","Wambaya","Critically endangered",-17.7696,134.923
+"515","Ngandi","Critically endangered",-13.6459,135.2087
+"516","Arabana","Critically endangered",-28.6134,135.8349
+"517","Udege","Critically endangered",47.6209,136.0903
+"518","Woria","Critically endangered",-2.4011,136.4886
+"519","Saponi","Critically endangered",-2.4025,136.5037
+"520","Kwerisa","Critically endangered",-2.9759,138.153
+"521","Waanyi","Critically endangered",-17.7486,138.2739
+"522","Massep","Critically endangered",-1.7575,138.3178
+"523","Ganggalidda","Critically endangered",-17.1001,138.3618
+"524","Kaurna","Critically endangered",-34.8498,138.6474
+"525","Foya","Critically endangered",-2.4107,138.6996
+"526","Mander","Critically endangered",-2.4341,138.7284
+"527","Liki","Critically endangered",-1.6202,138.738
+"528","Bonerif","Critically endangered",-2.1088,139.2352
+"529","Lardil","Critically endangered",-16.5526,139.3176
+"530","Kayardild","Critically endangered",-17.1197,139.4604
+"531","Kapori","Critically endangered",-3.4,139.7
+"532","Oroch","Critically endangered",49.1781,139.7625
+"533","Negidal","Critically endangered",52.942,139.779
+"534","Kembra","Critically endangered",-3.908,140.3942
+"535","Nivkh (Amur)","Critically endangered",53.2684,140.4107
+"536","Ulcha","Critically endangered",52.0457,140.4162
+"537","Kayupulau","Critically endangered",-2.5464,140.725
+"538","Usku","Critically endangered",-3.5449,140.7499
+"539","Puari","Critically endangered",-2.8689,141.6577
+"540","Sissano","Critically endangered",-3.0129,142.0491
+"541","Kunjen","Critically endangered",-16.1316,142.207
+"542","Wangkumara","Critically endangered",-27.2064,142.4597
+"543","Kuuku Ya'u","Critically endangered",-12.0185,142.8112
+"544","Ainu (Hokkaido)","Critically endangered",43.2612,142.8222
+"545","Orok","Critically endangered",52.3437,143.0557
+"546","Paakantyi","Critically endangered",-31.5598,143.3935
+"547","Wangaaybuwan","Critically endangered",-31.1093,144.9975
+"548","Mawak","Critically endangered",-4.5819,145.3079
+"549","Kowaki","Critically endangered",-4.6079,145.4067
+"550","Dyirbal","Critically endangered",-18.0205,145.4809
+"551","Bilakura","Critically endangered",-4.9404,145.5303
+"552","Abaga","Critically endangered",-6.1883,145.5976
+"553","Dumun","Critically endangered",-5.5421,146.0906
+"554","Kawucha","Critically endangered",-6.9373,146.1621
+"555","Kamasa","Critically endangered",-6.95,146.2
+"556","Taap","Critically endangered",-6.146,146.3955
+"557","Susuami","Critically endangered",-7.2044,146.5493
+"558","Hermit","Critically endangered",-2.0869,146.9311
+"559","Wiradjuri","Critically endangered",-34.5608,147.041
+"560","Yarawi","Critically endangered",-7.9001,147.6411
+"561","Sene","Critically endangered",-6.3753,147.7825
+"562","Ouma","Critically endangered",-10.233,149.1
+"563","Laua","Critically endangered",-10.1824,149.2053
+"564","Turaka","Critically endangered",-9.796,149.447
+"565","Gamilaraay","Critically endangered",-29.7929,149.7106
+"566","Dhurga","Critically endangered",-35.4964,150.249
+"567","Dharawal","Critically endangered",-34.7235,150.5786
+"568","Tench","Critically endangered",-1.6394,150.6939
+"569","Dharug","Critically endangered",-34.0344,150.9301
+"570","Forest Yukagir","Critically endangered",65.4936,151.0757
+"571","Makolkol","Critically endangered",-4.8994,151.6827
+"572","Gumbaynggirr","Critically endangered",-30.3349,152.8198
+"573","Guranalum","Critically endangered",-4.3464,152.8417
+"574","Badala","Critically endangered",-25.285,153.1054
+"575","Tundra Yukagir","Critically endangered",69.1654,154.4732
+"576","Itelmen","Critically endangered",57.1496,156.9012
+"577","Ririo","Critically endangered",-6.91,156.9671
+"578","Zazao","Critically endangered",-8.1832,159.2269
+"579","Mokilese","Critically endangered",6.6864,159.7631
+"580","Arha","Critically endangered",-21.3047,165.0146
+"581","Arho","Critically endangered",-21.274,165.0503
+"582","Aleut (Western, Commander Islands)","Critically endangered",55.171,166.094
+"583","Vano","Critically endangered",-11.6286,166.8383
+"584","Tanema","Critically endangered",-11.6986,166.9111
+"585","Araki","Critically endangered",-15.6322,166.9413
+"586","Lorediakarkar","Critically endangered",-15.1967,167.0498
+"587","Matanvat","Critically endangered",-15.8972,167.1947
+"588","Tape","Critically endangered",-16.0953,167.3094
+"589","Nivat","Critically endangered",-16.1302,167.3835
+"590","Bangsa","Critically endangered",-16.146,167.389
+"591","Niviar","Critically endangered",-16.1302,167.3945
+"592","Lemerig","Critically endangered",-13.7473,167.4096
+"593","Aveteian","Critically endangered",-16.3985,167.4213
+"594","Olrat","Critically endangered",-14.2796,167.4302
+"595","Naman","Critically endangered",-16.1216,167.4337
+"596","Naati","Critically endangered",-16.515,167.4645
+"597","Nasarian","Critically endangered",-16.3517,167.4659
+"598","Navwien","Critically endangered",-16.469,167.4975
+"599","Mwesen","Critically endangered",-13.874,167.5415
+"600","Copper Island Aleut","Critically endangered",54.7753,167.5662
+"601","Sorsorian","Critically endangered",-16.4709,167.6499
+"602","Nisvai","Critically endangered",-16.4492,167.7117
+"603","Volow","Critically endangered",-13.6433,167.7159
+"604","Sowa","Critically endangered",-15.8609,168.1842
+"605","Bieria","Critically endangered",-16.8045,168.2446
+"606","Ura","Critically endangered",-18.654,169.074
