@@ -18,10 +18,10 @@ to view the sonifications is to download the mp4 files located in the repo.
 
 ### Necessary Packages 
 The packages utilized: 
-\n```tidyverse``` - For processing the csv.  
-\n```gganimate``` - For creating the actual animations used in the final videos. 
-\n```maps``` - For plotting the data points onto a map.
-\n```av``` - For downloading the plots into .mp4 files which were editted later to have audio.
+<br/>```tidyverse``` - For processing the csv.  
+<br/>```gganimate``` - For creating the actual animations used in the final videos. 
+<br/>```maps``` - For plotting the data points onto a map.
+<br/>```av``` - For downloading the plots into .mp4 files which were editted later to have audio.
 
 ### Outside Tech 
 For audio I used TwoTones which basically turns the data into audio.
