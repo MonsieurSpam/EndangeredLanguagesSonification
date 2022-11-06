@@ -18,6 +18,7 @@ to view the sonifications is to download the mp4 files located in the repo.
 
 ### Necessary Packages 
 The packages utilized: 
+
 <br/>```tidyverse``` - For processing the csv.  
 <br/>```gganimate``` - For creating the actual animations used in the final videos. 
 <br/>```maps``` - For plotting the data points onto a map.
